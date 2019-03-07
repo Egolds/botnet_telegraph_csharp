@@ -1,0 +1,6 @@
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.pdb
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csprojAssemblyReference.cache
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.pdb
